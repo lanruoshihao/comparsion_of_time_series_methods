@@ -16,4 +16,3 @@ python开发工具: pycharm+Anaconda2
          
 
 5、RNN/LSTM深度学习方法
-
