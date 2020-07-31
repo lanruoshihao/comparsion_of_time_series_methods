@@ -9,7 +9,7 @@ python开发工具: pycharm+Anaconda2
 
 3、ARIMAX和三次累加/累乘指数平滑模型
 
-4、Faceboo开源的时间序列预测算法Prophet
+4、Facebook开源的时间序列预测算法Prophet
 
 参考链接：https://www.analyticsvidhya.com/blog/2018/05/generate-accurate-forecasts-facebook-prophet-python-r/
          https://www.jiqizhixin.com/articles/2019-02-19-11
